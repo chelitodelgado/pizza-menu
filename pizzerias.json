@@ -1,0 +1,243 @@
+[    
+    {
+        "_id" :"60597fdbfcfadd36c0895adb",
+        "nombre" : "Pizza At Nite",
+        "categoria" : "Pizza",
+        "direccion" : "Guadalajara, Jalisco, México",
+        "telefono" : "(777)111-1111",
+        "website" : "https://www.littleroma.com.mx",
+        "imagen" : "https://static.wixstatic.com/media/b1e624_c8af2cd2433a49149cce74afd599abb0~mv2.jpg/v1/fill/w_1902,h_682,al_c,q_85,usm_0.66_1.00_0.01/b1e624_c8af2cd2433a49149cce74afd599abb0~mv2.webp",
+        "pizzas" : [ 
+            {
+                "_id" : "60597fdbfcfadd36c0895adc",
+                "nombre" : "Botticelli",
+                "descripcion" : "Pizza de pimiento verde, mezcla de aceitunas, cebolla, queso, salsa de tomate. Pizza grande de 35 cm con 8 rebanadas.",
+                "imagen" : "https://images.rappi.com.mx/products/570025cb-7d66-4ed2-9101-1c364bdab3b3-1612573562379.jpeg?d=400x400&e=webp",
+                "precio" : "175.5"
+            }, 
+            {
+                "_id" : "60597fdbfcfadd36c0895add",
+                "nombre" : "Tikal",
+                "descripcion" : "Pizza de cochinita, salsa de frijol, salsa de tomate, queso y cebolla encurtida. Pizza grande de 35 cm con 8 rebanadas.",
+                "imagen" : "https://images.rappi.com.mx/products/788ef889-fca2-4270-807b-7c0633594884-1612573592399.jpeg?d=400x400&e=webp",
+                "precio" : "191.25"
+            }, 
+            {
+                "_id" : "60597fdbfcfadd36c0895ade",
+                "nombre" : "Puccini",
+                "descripcion" : "Pizza de quesos mozzarella, cheddar, monterrey, blue cheese, salsa de tomate. Pizza grande de 35 cm con 8 rebanadas.",
+                "imagen" : "https://images.rappi.com.mx/products/a3d936fa-3edf-46a9-8c69-4e2b63abf271-1612573776501.jpeg?d=400x400&e=webp",
+                "precio" : "211.5"
+            }, 
+            {
+                "_id" : "60597fdbfcfadd36c0895adf",
+                "nombre" : "Mexica",
+                "descripcion" : "Pizza con salsa de frijol, queso mozzarella, chorizo, cebolla y jalapeños. Pizza grande 35 cm de 8 rebanadas",
+                "imagen" : "https://images.rappi.com.mx/products/3c3f3173-cb27-410b-8f4e-0d7b042a9ff7-1612573887525.jpeg?d=400x400&e=webp",
+                "precio" : "156.7"
+            }
+        ],
+        "__v" : 0
+    },   
+    {
+        "_id" : "605982fbfcfadd36c0895ae0",
+        "nombre" : "mispizzas",
+        "categoria" : "Pizza",
+        "direccion" : "Guadalajara, Jalisco, México",
+        "telefono" : "(777)111-1111",
+        "website" : "https://www.mispizzas.com",
+        "imagen" : "https://images.rappi.com.mx/restaurants_background/3d8d363b-90fa-4032-afd4-76d5734294f2-1608094606168.jpeg?d=168x300&e=webp",
+        "pizzas" : [ 
+            {
+                "_id" : "605982fbfcfadd36c0895ae1",
+                "nombre" : "Pizza Hawaiana",
+                "descripcion" : "Masa original mispizzas. Salsa de tomate condimentada. Quesos mozzarella, manchego, jamón de pierna, piña natural.",
+                "imagen" : "https://images.rappi.com.mx/products/285f0702-68e7-4120-b7ff-08bdecdfb171-1606930743565.jpeg?d=400x400&e=webp",
+                "precio" : "149"
+            }, 
+            {
+                "_id" : "605982fbfcfadd36c0895ae2",
+                "nombre" : "Pizza Carnes Frías",
+                "descripcion" : "Masa original mispizzas. Salsa de tomate condimentada. Quesos mozzarella, manchego, jamón de pierna, salchicha.",
+                "imagen" : "https://images.rappi.com.mx/products/57d29ae1-6439-4a65-ae6c-325f8bd3699f-1607856927616.jpeg?d=400x400&e=webp",
+                "precio" : "149"
+            }, 
+            {
+                "_id" : "605982fbfcfadd36c0895ae3",
+                "nombre" : "Pizza Americana",
+                "descripcion" : "Pizza de quesos mozzarella, cheddar, monterrey, blue cheese, salsa de tomate. Pizza grande de 35 cm con 8 rebanadas.",
+                "imagen" : "https://images.rappi.com.mx/products/685deafc-5871-4d06-941a-4a86b21a8d8b-1606930774571.jpeg?d=400x400&e=webp",
+                "precio" : "149"
+            }, 
+            {
+                "_id" : "605982fbfcfadd36c0895ae4",
+                "nombre" : "Pizza Argentina",
+                "descripcion" : "Masa original mispizzas. Salsa de tomate condimentada. Quesos mozzarella, manchego, jamón, pimientos.",
+                "imagen" : "https://images.rappi.com.mx/products/a1cb11a7-7e6a-4c7b-b9e4-de65ccde3bd1-1607856830453.jpeg?d=400x400&e=webp",
+                "precio" : "149"
+            }
+        ],
+        "__v" : 0
+    },  
+    {
+        "_id" : "60598525fcfadd36c0895ae5",
+        "nombre" : "Cancino",
+        "categoria" : "Pizza",
+        "direccion" : "Guadalajara, Jalisco, México",
+        "telefono" : "(777)111-1111",
+        "website" : "https://www.Cancino.com",
+        "imagen" : "https://images.rappi.com.mx/restaurants_background/cancino-home1-1569880805513.png?d=168x300&e=webp",
+        "pizzas" : [ 
+            {
+                "_id" : "60598525fcfadd36c0895ae6",
+                "nombre" : "Pizza Pepperoni Grande",
+                "descripcion" : "Pizza pepperoni con salsa pomodoro, queso mozzarella y pepperoni curado.",
+                "imagen" : "https://images.rappi.com.mx/products/product-1587200457734.png?d=400x400&e=webp",
+                "precio" : "218"
+            }, 
+            {
+                "_id" : "60598525fcfadd36c0895ae7",
+                "nombre" : "Pizza Huitlacoche y Oaxaca",
+                "descripcion" : "Pizza con puré de huitlacoche, queso oaxaca, granos de elote y chile jalapeño.",
+                "imagen" : "https://images.rappi.com.mx/products/977547057-1587236156719.png?d=400x400&e=webp",
+                "precio" : "218"
+            }, 
+            {
+                "_id" : "60598525fcfadd36c0895ae8",
+                "nombre" : "Pizza Margherita",
+                "descripcion" : "pizza con salsa pomodoro, queso mozzarella, tomate cherry, hojas de albahaca y aceite de ajo.",
+                "imagen" : "https://images.rappi.com.mx/products/product-1587200396510.png?d=400x400&e=webp",
+                "precio" : "218"
+            }, 
+            {
+                "_id" : "60598525fcfadd36c0895ae9",
+                "nombre" : "Cancino X Dna",
+                "descripcion" : "Pizza de salsa blanca de ricotta, prosciutto, queso de cabra, espinaca y jitomate cherry.",
+                "imagen" : "https://images.rappi.com.mx/products/e2bc5c99-3a50-4766-baff-7045dc5df8b7-1614789842792.jpeg?d=400x400&e=webp",
+                "precio" : "152"
+            }
+        ],
+        "__v" : 0
+    },   
+    {
+        "_id" : "6059886afcfadd36c0895aea",
+        "nombre" : "San Giorgio Pizzería",
+        "categoria" : "Pizza",
+        "direccion" : "Guadalajara, Jalisco, México",
+        "telefono" : "(777)111-1111",
+        "website" : "https://www.sangiorgiopizzeria.com",
+        "imagen" : "https://images.rappi.com.mx/restaurants_background/foto-1603489470220.jpg?d=168x300&e=webp",
+        "pizzas" : [ 
+            {
+                "_id" : "6059886afcfadd36c0895aeb",
+                "nombre" : "Pizza Iñaki",
+                "descripcion" : "Pizza con mozzarella san giorgio, salsa pomodoro, jamón de pierna y orégano.",
+                "imagen" : "https://images.rappi.com.mx/products/fada27f4-1bd1-4fb8-9cef-a08bab31c7e8-1599517936103.png?d=400x400&e=webp",
+                "precio" : "200"
+            }, 
+            {
+                "_id" : "6059886afcfadd36c0895aec",
+                "nombre" : "Pizza Americana",
+                "descripcion" : "Pizza con mozzarella san giorgio, salsa pomodoro, jamón, cebolla y aceitunas.",
+                "imagen" : "https://images.rappi.com.mx/products/5eb959e5-276b-4ff2-a7bd-e2e82cf0d4e2-1591238900772.png?d=400x400&e=webp",
+                "precio" : "220"
+            }, 
+            {
+                "_id" : "6059886afcfadd36c0895aed",
+                "nombre" : "Pizza Tonno E Cipolle",
+                "descripcion" : "Pizza con salsa pomodoro, queso mozzarella 100 gr san giorgio, atún 40 gr y cebollas.",
+                "imagen" : "https://images.rappi.com.mx/products/fa83375b-1ccd-4d19-90a5-2ad39be3e6fc-1584312579630.png?d=400x400&e=webp",
+                "precio" : "215"
+            }, 
+            {
+                "_id" : "6059886afcfadd36c0895aee",
+                "nombre" : "Pizza Margherita",
+                "descripcion" : "Pizza con salsa pomodoro, queso mozzarella san giorgio 100 gr y albahaca.",
+                "imagen" : "https://images.rappi.com.mx/products/cbb33d9c-5078-461f-afbd-44cb81876cc5-1584312134913.png?d=400x400&e=webp",
+                "precio" : "192"
+            }
+        ],
+        "__v" : 0
+    },    
+    {
+        "_id" : "60598958fcfadd36c0895aef",
+        "nombre" : "F*cking Good Pizza",
+        "categoria" : "Pizza",
+        "direccion" : "Guadalajara, Jalisco, México",
+        "telefono" : "(777)111-1111",
+        "website" : "https://www.fkinggoodpizza.com",
+        "imagen" : "https://images.rappi.com.mx/restaurants_background/fucking-good-home1-1591294047012.png?d=168x300&e=webp",
+        "pizzas" : [ 
+            {
+                "_id" : "60598958fcfadd36c0895af0",
+                "nombre" : "Pizza Hawaiana",
+                "descripcion" : "Mozzarella, rodajas de jitomate, ajo y albahaca.",
+                "imagen" : "https://images.rappi.com.mx/products/ab543169-6609-489b-b007-5f2a92203ba0-1615323448174.png?d=128x90&e=webp",
+                "precio" : "247"
+            }, 
+            {
+                "_id" : "60598958fcfadd36c0895af1",
+                "nombre" : "Pizza Pepperoni",
+                "descripcion" : "Mozzarella, provolone y pepperoni.",
+                "imagen" : "https://images.rappi.com.mx/products/ce232c00-31b1-4080-9dc8-38348097142b-1615323411929.png?d=128x90&e=webp",
+                "precio" : "247"
+            }, 
+            {
+                "_id" : "60598958fcfadd36c0895af2",
+                "nombre" : "Pizza Chikana",
+                "descripcion" : "Mozzarella, pollo crujiente, salsa yanqui, perejil picado.",
+                "imagen" : "https://images.rappi.com.mx/products/9c21025a-bbec-4cd3-babf-bb130c120ca4-1615322618801.png?d=128x90&e=webp",
+                "precio" : "276"
+            }, 
+            {
+                "_id" : "60598958fcfadd36c0895af3",
+                "nombre" : "Pizza de Jamón y Pimiento Morrón",
+                "descripcion" : "Jamón, pimiento morrón, aceitunas y mozzarella.",
+                "imagen" : "https://images.rappi.com.mx/products/abab721f-bc99-4326-b48b-983b156c0325-1615323997800.png?d=128x90&e=webp",
+                "precio" : "254"
+            }
+        ],
+        "__v" : 0
+    },
+    {
+        "_id" : "60598a6ffcfadd36c0895af4",
+        "nombre" : "Lush Kitchen",
+        "categoria" : "Pizza",
+        "direccion" : "Guadalajara, Jalisco, México",
+        "telefono" : "(777)111-1111",
+        "website" : "https://www.lushkitchen.com",
+        "imagen" : "https://images.rappi.com.mx/restaurants_background/formgyhujikoato-home-1613493060185.png?d=400x400&e=webp",
+        "pizzas" : [ 
+            {
+                "_id" : "60598a6ffcfadd36c0895af5",
+                "nombre" : "Pizza Farón 35 cm",
+                "descripcion" : "Pastor de taquería el faraón, mezcla de quesos y salsa de tomate.",
+                "imagen" : "https://images.rappi.com.mx/products/980055929-1612195875602.png?d=400x400&e=webp",
+                "precio" : "245"
+            }, 
+            {
+                "_id" : "60598a6ffcfadd36c0895af6",
+                "nombre" : "Pizza Hawaiana 35 cm",
+                "descripcion" : "Jamón, trozos de piña, mezcla de quesos, salsa de tomate, jamón, trozos de piña, mezcla de quesos y salsa de tomate.",
+                "imagen" : "https://images.rappi.com.mx/products/980055929-1612195875602.png?d=400x400&e=webp",
+                "precio" : "237"
+            }, 
+            {
+                "_id" : "60598a6ffcfadd36c0895af7",
+                "nombre" : "Pizza Chilorio 35 cm",
+                "descripcion" : "Chilorio, mezcla de quesos y salsa de tomate.",
+                "imagen" : "https://images.rappi.com.mx/products/980055952-1612195756329.png?d=400x400&e=webp",
+                "precio" : "267"
+            }, 
+            {
+                "_id" : "60598a6ffcfadd36c0895af8",
+                "nombre" : "Pizza Carne y Salchicha 35 cm",
+                "descripcion" : "Arrachera, new york, salchicha de ternera, mezcla de quesos y salsa de tomate.",
+                "imagen" : "https://images.rappi.com.mx/products/980055950-1612195736420.png?d=400x400&e=webp",
+                "precio" : "267"
+            }
+        ],
+        "__v" : 0
+    }
+    
+]
